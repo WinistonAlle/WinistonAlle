@@ -24,6 +24,6 @@
 
 ###  
 
-<img src="https://raw.githubusercontent.com/WinistonAlle/WinistonAlle/output/snake.svg" alt="Snake animation" />
+
 
 ###
