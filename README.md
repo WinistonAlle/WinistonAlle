@@ -1,4 +1,4 @@
-<p align="center"> 👋 Olá, eu sou Winiston!<br><br>🎓 Estudante de Engenharia de Software (5º semestre)  <br>🚀 Em busca de um estágio na área de tecnologia  <br>💡 Interessado em Desenvolvimento de Software, Automação, Dados e Inteligência Artificial</p>
+<p align="center"> 👋 Olá, eu sou Winiston!<br><br>🎓 Estudante de Engenharia de Software (5º semestre)  <br>🚀 Desenvolvedor Junior  <br>💡 Interessado em Desenvolvimento de Software, Automação, Dados e Inteligência Artificial</p>
 
 ###
 
