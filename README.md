@@ -5,16 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:1e293b&height=160&section=header&text=Winiston%20Alle&fontSize=40&fontColor=e5f0ff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=68&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:1e293b&height=180&section=header&text=Winiston%20Alle&fontSize=42&fontColor=e5f0ff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=68&descSize=18" />
 </p>
 
-<p align="center">
-  <sub>🎓 Engenharia de Software (5º semestre)</sub><br>
-  <sub>💻 Desenvolvedor Full Stack</sub><br>
-  <sub>💡 Interessado em Desenvolvimento de Software, Automação, Dados e Inteligência Artificial</sub>
-</p>
+---
 
-<br>
+<h2 align="center">🎓 Engenharia de Software (5º semestre)</h2>
+<h2 align="center">💻 Desenvolvedor Full Stack</h2>
+
+<h3 align="center">
+💡 Desenvolvimento de Software • Automação • Dados • Inteligência Artificial
+</h3>
+
+---
 
 <h2 align="center">🛠️ Stack</h2>
 
@@ -27,7 +30,7 @@
   <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<br>
+---
 
 <h2 align="center">🌐 Contato</h2>
 
