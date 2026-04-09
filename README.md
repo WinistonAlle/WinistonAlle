@@ -45,13 +45,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🧠 Filosofia
-
-<p align="center">
-  <i>
-    Building reliable software, automating processes, and turning ideas into real products.
-  </i>
-</p>
